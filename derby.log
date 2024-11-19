@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Nov 19 16:24:53 BRT 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0193-45e2-81ea-000001607c08 
+on database directory /tmp/passagensdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@b1a58a3 
+Loaded from file:/home/josue/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.4+7-LTS
+user.dir=/home/josue/Área de trabalho/spring-boot-apache-derby-example-master
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-48-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
